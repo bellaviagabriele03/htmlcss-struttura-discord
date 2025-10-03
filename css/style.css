@@ -20,6 +20,18 @@
 **************************************************
 */
 
+.margin-auto {
+    margin: 0 auto;
+}
+
+.height-400px {
+    height: 400px;
+}
+
+.height-60px {
+    height: 60px;
+}
+
 .bg-pink {
     background-color: pink;
 }
@@ -83,6 +95,9 @@
 *DEBUG
 **************************************************
 */
+/* 
+
+
 body {
     background-color: aqua;
-}
+} */
