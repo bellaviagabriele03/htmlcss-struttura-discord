@@ -32,7 +32,7 @@
 }
 
 .box-verde {
-    width: 750px;
+    width: 1300px;
     height: 650px;
     
     
@@ -90,15 +90,26 @@ body {
 }
 
 
-/*
-**************************************************
-*MAIN
-**************************************************
-*/
-
-.main {
-    height: 100%;
+.box-salmon {
+    width: 40%;
+    height: 80%;
 }
+
+.box-cyan {
+    height: 80%;
+    width: 315px;
+}
+
+.container-box-ciane {
+    width: 40%;
+    height: 80%;
+}
+
+
+
+
+
+
 
 
 /*
@@ -113,6 +124,43 @@ header {
     align-items: center;
 }
 
+
+/*
+**************************************************
+*MAIN
+**************************************************
+*/
+
+.main {
+    height: 100%;
+}
+
+
+
+/*
+**************************************************
+*FOOTER
+**************************************************
+*/
+
+footer {
+    padding-left: 100px;
+    padding-right: 100px;
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
 /*
 **************************************************
 *UTILITIES
@@ -126,7 +174,7 @@ header {
 
 
 
-
+/* ALTEZZE  */
 
 .height-400px {
     height: 400px;
@@ -143,6 +191,9 @@ header {
 .height-600px {
     height: 600px;
 }
+
+
+/* COLORI SFONDO */
 
 .bg-pink {
     background-color: pink;
@@ -194,6 +245,8 @@ header {
 .bg-cyan {
     background-color: cyan;
 }
+
+/* BORDO TRATTEGGIATO */
 
 .dashed-border {
     border: 2px;
