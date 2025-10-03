@@ -144,15 +144,28 @@ header {
 */
 
 footer {
-    padding-left: 100px;
-    padding-right: 100px;
     border-top: 2px white solid;
     border-bottom: 2px white solid;
+    justify-content: center;
+    align-items: center;
     
 
 }
 
+.logo2 {
 
+}
+
+.bottone {
+    
+}
+
+.fake-link {
+
+    padding: 0 120px;
+    max-height: 20px;
+    justify-content: space-between;
+}
 
 
 
