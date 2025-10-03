@@ -21,6 +21,8 @@
 
 .link {
     padding: 0 120px;
+    max-height: 20px;
+    display: flex;
 }
 
 .flex-container {
@@ -30,6 +32,7 @@
 a {
     text-decoration: none;
     color: black;
+    max-height: 20px;
 }
 
 body {
