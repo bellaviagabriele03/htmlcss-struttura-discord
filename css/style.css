@@ -5,6 +5,14 @@
     box-sizing: border-box;
 }
 
+.flex-container {
+    display: flex;
+}
+
+
+
+
+
 
 /*
 **************************************************
@@ -12,7 +20,62 @@
 **************************************************
 */
 
+.bg-pink {
+    background-color: pink;
+}
 
+.bg-dark-blue {
+    background-color: darkblue;
+}
+
+.bg-flower-blue {
+    background-color: cornflowerblue;
+}
+
+.bg-light-blue {
+    background-color: lightblue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-dark-cyan {
+    background-color: darkcyan;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-magenta {
+    background-color: magenta;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-white {
+    background-color: white;
+}
+.bg-black {
+    background-color: black;
+}
+
+.bg-dark-salmon {
+    background-color: darksalmon;
+}
+
+.bg-cyan {
+    background-color: cyan;
+}
+
+.dashed-border {
+    border: 2px;
+    border-color: black;
+    border-style: dashed;
+}
 
 
 /*
