@@ -5,14 +5,60 @@
     box-sizing: border-box;
 }
 
+/*
+**************************************************
+*UNCOMMON
+**************************************************
+*/
+
+.logo {
+    padding-right: 120px;
+}
+
+.login {
+    padding-left: 120px;
+}
+
+.link {
+    padding: 0 120px;
+}
+
 .flex-container {
     display: flex;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-family: sans-serif;
+}
 
 
+/*
+**************************************************
+*MAIN
+**************************************************
+*/
+
+.main {
+    height: 100%;
+}
 
 
+/*
+**************************************************
+*HEADER
+**************************************************
+*/
+
+
+header {
+    justify-content: center;
+    align-items: center;
+}
 
 /*
 **************************************************
